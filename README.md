@@ -2,11 +2,11 @@
 My app helper use seajs and spmjs
 
 ## How to use (sea-helper.js)
-* debug:
+* debug (use js/init.js):
 ```
 http://ip:port/?debug=true
 ```
-* release:
+* release (use assets/release/1.0.0/init.js):
 ```
 http://ip:port/
 ```
