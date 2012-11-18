@@ -1,5 +1,15 @@
 # seajs helper
-my seajs app use spm
+My app helper use seajs and spmjs
+
+## How to use (sea-helper.js)
+* debug:
+```
+http://ip:port/?debug=true
+```
+* release:
+```
+http://ip:port/
+```
 
 ## Directory structure
 ```
@@ -43,16 +53,6 @@ my seajs app use spm
 ## How to build
 ```
 spm build --src=js
-```
-
-## How to use (sea-helper.js)
-* debug:
-```
-http://ip:port/?debug=true
-```
-* release:
-```
-http://ip:port/
 ```
 
 ## author: 
