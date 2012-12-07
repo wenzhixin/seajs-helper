@@ -2,7 +2,7 @@
 	'use strict';
 	
 	var debug = location.search.match(/debug=true/),
-		packageJson = '/package.json',
+		packageJson = './package.json',
 		readPackage = false,
 		use = seajs.use;
 	
